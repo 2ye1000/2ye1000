@@ -1,9 +1,6 @@
-##Hello, my name is Lee Yecheon. I like basketball, sports, and dancing. And I am currently planning to study about the web as an artificial intelligence major.😀😀
- 👋
+# 👋 Hello, my name is Lee Yecheon!
 
-<!--
-**2ye1000/2ye1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like **basketball**, **sports**, and **dancing**. 🏀💃  
+I am currently planning to study **web development** as an **artificial intelligence major**. 🌐✨
 
-Here are some ideas to get you started:
-
-Hello, my name is Lee Yecheon. I like basketball, sports, and dancing. And I am currently planning to study about the web as an artificial intelligence major.😀😀
+I will be sharing my projects and learning experiences here, so I appreciate your interest!
